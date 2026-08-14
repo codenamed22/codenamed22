@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Navneet Anand 👋</h1>
 
 <p align="center">
-  Software engineer with 9+ years of experience.<br/>
+  Software engineer with 8+ years of experience.<br/>
   Currently building for <b>Fintech @ Uber</b> · Previously <b>Microsoft</b> (Windows Defender, Defender Experts, Dynamics 365)<br/>
   📍 Hyderabad, India
 </p>
@@ -68,17 +68,15 @@
 
 ### 📊 GitHub Stats
 
+<!-- Rendered nightly by .github/workflows/metrics.yml and committed to this repo, so these never depend on a third-party service staying up. -->
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codenamed22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenamed22&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages" />
+  <img src="metrics/overview.svg" alt="Profile overview" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codenamed22&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codenamed22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub trophies" />
+  <img src="metrics/languages.svg" alt="Most used languages" />
+  <img src="metrics/calendar.svg" alt="Contribution calendar" />
 </p>
 
 ---
